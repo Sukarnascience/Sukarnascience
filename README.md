@@ -1,11 +1,12 @@
 <p align="right">
-  <b>Hello, </b>Great to see you.<br>My self <b>Sukarna Jana</b> standing here and wating with lots of Dreams<br>to bring into reality.
+  <b>Hello, </b>Great to see you.<br>My self <b>Sukarna Jana</b> standing here and wating with lots of Dreams<br>to convert into reality.
 </p>
 
-#### If i way my lifestyle in your confertable language
+## If i way my lifestyle in your confertable language
 ```python
 Name="Sukarna Jana"
 Origin="India"
+Pronoun="He/Him"
 Pation=['Programming','Exploring new areas','Experimenting','Making IOT Projects']
 Hobbies=['Sketching','Sleeping','Playing Outdoors Games']
 Removed=Hobbies.pop()
@@ -31,23 +32,6 @@ print("Keep making New friends. any one of them will stay till your last breath"
 exit() #Life End
 ```
 
-<h1 align="left">I have worked with the Languages are :-</h1>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukarnascience&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=000" alt="Top Langs">
-</p>  
-<p align="right">
-  I Have a knowledge of <br><b>Python, Kotlin, C++/C, JavaScript,Java..</b><br>(Still Exploring New language)
-</p>
-
-<h1 align="left">My Stats :-</h1>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Sukarnascience&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=000" alt="Sukarna Jana github stats">
-</p>
-
-## Fun Fact about me:- ##
-* If you motivate me i can work in my high potential non stop till the work completes.
-* If you can't motivate me then i will sleep. (i sleep a lot)
-
 <h1 align="center">You can find me on :-</h1>
 <p align="center">
   <a href="https://twitter.com/JanaSukarna">
@@ -62,3 +46,20 @@ exit() #Life End
     <img src="https://img.shields.io/badge/Stack Overflow-%23F48024.svg?&style=plastic&logo=stackoverflow&logoColor=white" height=20></a>
 </p>
 
+<h1 align="left">I have worked with the Languages are :-</h1>
+<img align="right" src="Octocat.png" alt="My Octocat" width="500" height="500">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukarnascience&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=000" alt="Top Langs">
+</p>  
+<p align="left">
+  I Have a knowledge of <br><b>Python, Kotlin, C++/C, JavaScript,Java..</b><br>(Still Exploring New language)
+</p>
+
+<h1 align="left">My Stats :-</h1>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Sukarnascience&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=000" alt="Sukarna Jana github stats">
+</p>
+
+## Fun Fact about me:- ##
+* If you motivate me i can work in my high potential non stop till the work completes.
+* If you can't motivate me then i will sleep. (i sleep a lot)
