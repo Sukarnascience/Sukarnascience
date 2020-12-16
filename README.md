@@ -1,3 +1,35 @@
+<p align="right">
+  <b>Hello, </b>Great to see you.<br>My self <b>Sukarna Jana</b> standing here and wating with lots of Dreams<br>to bring into reality.
+</p>
+
+#### If i way my lifestyle in your confertable language
+```python
+Name="Sukarna Jana"
+Origin="India"
+Pation=['Programming','Exploring new areas','Experimenting','Making IOT Projects']
+Hobbies=['Sketching','Sleeping','Playing Outdoors Games']
+Removed=Hobbies.pop()
+Trying=Hobbies.append('Playing Outdoors Games') # But failing
+
+while True:
+  You=input("How is your mode now:-")
+  if(You=="happy"):
+    print("Lets join our hand hand happy codeing")
+    break
+  else:
+    try:
+      print("I will try my level best to make you happy")
+      continue
+    except:
+      print("I will work more hard to make you happy")
+      continue
+
+print("Contribute in openSource")
+print("Keep knowing new peoples")
+print("keep Learning till the death and keep teaching everyone")
+print("Keep making New friends. any one of them will stay till your last breath")
+exit() #Life End
+```
 
 <h1 align="left">I have worked with the Languages are :-</h1>
 <p align="left">
