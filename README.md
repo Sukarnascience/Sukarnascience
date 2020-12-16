@@ -4,13 +4,14 @@
 
 ## If i way my lifestyle in your confertable language
 ```python
-Name="Sukarna Jana"
-Origin="India"
-Pronoun="He/Him"
-Pation=['Programming','Exploring new areas','Experimenting','Making IOT Projects']
-Hobbies=['Sketching','Sleeping','Playing Outdoors Games']
-Removed=Hobbies.pop()
-Trying=Hobbies.append('Playing Outdoors Games') # But failing
+Name = "Sukarna Jana"
+Origin = "India"
+Pronoun = "He/Him"
+First_Cried = {'DOB':'19/09/2003'}
+Pation = ['Programming','Exploring new areas','Experimenting','Making IOT Projects']
+Hobbies = ['Sketching','Sleeping','Playing Outdoors Games']
+Removed = Hobbies.pop()
+Trying = Hobbies.append('Playing Outdoors Games') # But failing
 
 while True:
   You=input("How is your mode now:-")
