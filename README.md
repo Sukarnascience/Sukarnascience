@@ -1,5 +1,26 @@
+# Hello, 
+
+#### Bio:-
+* Android App Developer
+* IOT
+* Still a Learner & always be a learner
+
+<h3 align="center">Love to work in a team<br>love to collaborate and work on new stuff</h3>
+
 <p align="right">
-  <b>Hello, </b>Great to see you.<br>My self <b>Sukarna Jana</b> standing here and wating with lots of Dreams<br>to convert into reality.
+  <b>Hai.. Great</b> to see you.<br>My self <b>Sukarna Jana</b> standing here and wating with lots of Dreams<br>to convert into reality.
+</p>
+
+* Learning AI & ML...
+* Updating Learning Skills of Python, Kotlin, Java, JavaScript, C++...
+* Wants to learn new things, concept, algorithums.. many more
+
+<p align="right">
+  Parents,Nature,Computer are my world &#8226;<br>
+  My GF :- Nature & and their Natural Beauty &#8226;<br>
+  Live in present capture capture the past &#8226;<br>
+  Dream to travel wherever I point fast &#8226;<br>
+  Ha nature i Love u vast... &#8226;
 </p>
 
 ## If i way my lifestyle in your confertable language
