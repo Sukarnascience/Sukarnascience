@@ -17,5 +17,7 @@
     <img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=plastic&logo=facebook&logoColor=white" height=20></a>
   <a href="https://dev.to/sukarnascience">
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=plastic&logo=dev-dot-to&logoColor=white" height=20></a>
+  <a href="https://stackoverflow.com/users/13509333/sukarna-jana">
+    <img src="https://img.shields.io/badge/Stack Overflow-%23F48024.svg?&style=plastic&logo=stackoverflow&logoColor=white" height=20></a>
 </p>
 
