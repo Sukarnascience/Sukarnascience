@@ -1,12 +1,21 @@
 
 <h1 align="left">I have worked with the Languages are :-</h1>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukarnascience&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=000" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukarnascience&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=000" alt="Top Langs">
+</p>  
+<p align="right">
+  I Have a knowledge of <br><b>Python, Kotlin, C++/C, JavaScript,Java..</b><br>(Still Exploring New language)
 </p>
+
 <h1 align="left">My Stats :-</h1>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Sukarnascience&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=000" alt="Sukarna Jana github stats">
 </p>
+
+## Fun Fact about me:- ##
+* If you motivate me i can work in my high potential non stop till the work completes.
+* If you can't motivate me then i will sleep. (i sleep a lot)
+
 <h1 align="center">You can find me on :-</h1>
 <p align="center">
   <a href="https://twitter.com/JanaSukarna">
