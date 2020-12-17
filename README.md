@@ -1,11 +1,11 @@
 # Hello, 
 
+<hr><h3 align="center">Love to work in a team<br>love to collaborate and work on new stuff</h3><hr>
+
 #### Bio:-
 * Android App Developer
 * IOT
 * Still a Learner & always be a learner
-
-<h3 align="center">Love to work in a team<br>love to collaborate and work on new stuff</h3>
 
 <p align="right">
   <b>Hai.. Great</b> to see you.<br>My self <b>Sukarna Jana</b> standing here and wating with lots of Dreams<br>to convert into reality.
