@@ -1,5 +1,15 @@
 # Hello, 
+<hr>
+<p align="right">Note given on: Jan 6 2021</p> 
 
+* Note:
+    * Presently no projects are been done. 
+    * due to my examination season has started.
+    * i will be <b>LIVE</b> soon.
+* Sorry: 
+    * If you want anything/Help i may respond lately <b>Sorry</b>
+    
+<hr>
 <hr><h3 align="center">Love to work in a team<br>love to collaborate and work on new stuff</h3><hr>
 
 #### Bio:-
