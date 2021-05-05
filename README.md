@@ -25,33 +25,32 @@
 
 ## If i way my lifestyle in your confertable language
 ```python
-Name = "Sukarna Jana"
+Author = "Sukarna Jana"
 Origin = "India"
 Pronoun = "He/Him"
-First_Cried = {'DOB':'19/09/2003'}
+Life = {'DOB':'19/09/2003','DOD':None}
 Pation = ['Programming','Exploring new areas','Experimenting','Making IOT Projects']
 Hobbies = ['Sketching','Sleeping','Playing Outdoors Games']
-Removed = Hobbies.pop()
-Trying = Hobbies.append('Playing Outdoors Games') # But failing
+Hobbies = Hobbies.pop()
+try:
+  Hobbies.append('Playing Outdoors Games') # But failing
+except:
+  print("Fail to go Outdoors to play")
+finally:
+  print("You are happy, I am happy then All should be happy")
 
 while True:
-  You=input("How is your mode now:-")
-  if(You=="happy"):
-    print("Lets join our hand hand happy codeing")
-    break
-  else:
+  if(Life['DOD']==None):
     try:
-      print("I will try my level best to make you happy")
-      continue
+      # Change the point of view of the world
     except:
-      print("I will work more hard to make you happy")
-      continue
-
-print("Contribute in openSource")
-print("Keep knowing new peoples")
-print("keep Learning till the death and keep teaching everyone")
-print("Keep making New friends. any one of them will stay till your last breath")
-exit() #Life End
+      # Rise Up and again try to change the point of view
+    finally:
+      # Spread happiness on the face of people
+      break
+  else:
+      # Regret To spread happiness
+      break
 ```
 
 <h1 align="center">You can find me on :-</h1>
