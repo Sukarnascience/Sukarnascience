@@ -42,14 +42,14 @@ finally:
 while True:
   if(Life['DOD']==None):
     try:
-      # Change the point of view of the world
+      print("Change the point of view of the world")
     except:
-      # Rise Up and again try to change the point of view
+      print("Rise Up and again try to change the point of view")
     finally:
-      # Spread happiness on the face of people
+      print("Spread happiness on the face of people")
       break
   else:
-      # Regret To spread happiness
+      print("Regret To spread happiness")
       break
 ```
 
