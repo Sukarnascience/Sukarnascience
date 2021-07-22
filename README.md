@@ -85,4 +85,4 @@ while True:
 * If you motivate me i can work in my high potential non stop till the work completes.
 * If you can't motivate me then i will sleep. (i sleep a lot)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sukarnajana){:target="_blank"}
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sukarnajana)
