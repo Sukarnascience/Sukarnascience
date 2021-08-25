@@ -23,6 +23,13 @@
   Ha nature i Love u vast... &#8226;
 </p>
 
+## Badges
+<hr>
+<a href="https://dev.to/sukarnascience">
+  <img src="Hacktoberfest2020.png" alt="My Octocat" width="80" height="80">
+</a>
+<hr>
+
 ## If i way my lifestyle in your confertable language
 ```python
 Author = "Sukarna Jana"
