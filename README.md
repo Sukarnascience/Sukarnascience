@@ -1,3 +1,5 @@
+<img src="coverWhite.png" alt="Banner" style="width:100%; border-radius: 15px 15px 0px 0px;">
+
 # Hello, 
 
 <hr><h3 align="center">Love to work in a team<br>love to collaborate and work on new stuff</h3><hr>
