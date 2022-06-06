@@ -1,4 +1,4 @@
-<img src="coverWhite.png" alt="Banner" style="width:100%; border-radius: 15px 15px 0px 0px;">
+<img src="Cover white.png" alt="Banner" style="width:100%; border-radius: 15px 15px 0px 0px;">
 
 # Hello, 
 
