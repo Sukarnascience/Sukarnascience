@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sukarna+Jana)](https://git.io/typing-svg)
 
+<img src="./banner.png" alt="Hello world">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=A+passionate+full+stack+developer+from+India✨)](https://git.io/typing-svg)
 
 
