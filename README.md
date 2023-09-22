@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sukarna Jana</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sukarna+Jana)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=A+passionate+full+stack+developer+from+India)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukarnascience&label=Profile%20views&color=0e75b6&style=flat" alt="sukarnascience" /> </p>
 
