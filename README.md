@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=A+passionate+full+stack+developer+from+India✨)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/Sukarnascience/Sukarnascience/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Sukarnascience/Sukarnascience/blob/output/github-contribution-grid-snake.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukarnascience&label=Profile%20views&color=0e75b6&style=flat" alt="sukarnascience" /> </p>
