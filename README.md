@@ -4,12 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=A+passionate+full+stack+developer+from+India✨)](https://git.io/typing-svg)
 
+![Snake animation](https://github.com/Sukarnascience/Sukarnascience/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukarnascience&label=Profile%20views&color=0e75b6&style=flat" alt="sukarnascience" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukarnascience" alt="sukarnascience" /></a> </p>
 
-![Snake animation](https://github.com/Sukarnascience/Sukarnascience/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on **idharaana**
 
